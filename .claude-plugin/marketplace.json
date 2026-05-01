@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    {
+      "name": "fde-os",
+      "description": "FDEOS – The Operating System for Forward Deployed Engineering. 14 skills for complete enterprise engagements: trust, explore, calibrate, discover, observe, prototype, bridge, chaos, brownfield, ship, retrospective, harness, context, and master orchestration.",
+      "version": "1.0.0",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/suboss87/fde-os"
+      },
+      "categories": ["Enterprise", "Methodology", "Brownfield", "Context Engineering", "Chaos Engineering", "Prototyping"],
+      "license": "MIT"
+    }
+  ]
+}
